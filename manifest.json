@@ -1,10 +1,10 @@
 {
   "manifest_version": 2,
 
-  "name": "CLUT: Cycle Last Used Tabs",
-  "description": "Cycle through last used Chrome tabs using keyboard shortcut.",
-  "version": "1.6",
-  "short_name": "CLUT",
+  "name": "Alt+Q Between MRU Tabs",
+  "description": "Use Alt+Q to quickly switch between the two most-recently-used tabs.",
+  "version": "1.0",
+  "short_name": "AltQbtMRUT",
 
   "permissions": [
     "tabs"
