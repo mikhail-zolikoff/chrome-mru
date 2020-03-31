@@ -24,20 +24,6 @@
         "mac": "Alt+Q"
       },
       "description": "Use Alt+Q to quickly switch between the two most-recently-used tabs."
-    },  
-    "alt_switch_slow_backward": {
-      "suggested_key": {
-        "default": "Alt+S",
-        "mac": "Alt+S"
-      },
-      "description": "Normal switch backward (Suggested: Alt+S) "
-    },
-    "alt_switch_slow_forward": {
-      "suggested_key": {
-        "default": "Alt+Shift+S",
-        "mac": "Alt+Shift+S"
-      },
-      "description": "Normal switch forward (Suggested: Alt+Shift+S)"
     }
   },
   "browser_action": {
