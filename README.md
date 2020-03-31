@@ -1,5 +1,5 @@
-clut-chrome-extension
-=====================
+Chrome MRU Tab Switcher
+=======================
 
 A Chrome extension to switch between the two most-recently-used tabs using a keyboard shortcut.
 
